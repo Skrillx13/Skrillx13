@@ -1,0 +1,22 @@
+{
+  "name": "skrillx13-readme",
+  "version": "1.0.0",
+  "description": "Configurations for my GitHub Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skrillx13/Skrillx13.git"
+  },
+  "author": "Skrillx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skrillx13/Skrillx13/issues"
+  },
+  "homepage": "https://github.com/Skrillx13/Skrillx13#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

@@ -1,0 +1,33 @@
+name: Deploy Dyanmic README Build
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout to Master Branch
+        uses: actions/checkout@v1
+      - name: Setup NodeJs 13.X
+        uses: actions/setup-node@v1
+        with:
+          node-version: '13.x'
+      - name: Improve Build Output Time
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install NPM Dependencies
+        run: npm install
+      - name: Generate README
+        run: node index.js
+      - name: Commit and Push changed README.md to the repository
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
