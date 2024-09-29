@@ -7,7 +7,7 @@
     <a href="https://skrillx13.github.io"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Social Links"></a>
     <h1>
       Hi! I'm Skrillx
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      <img src="assets/blob.gif" width="30px"/>
     </h1>
 </div>
 
