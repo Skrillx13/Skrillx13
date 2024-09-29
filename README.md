@@ -25,11 +25,8 @@ My Username is Skrillx13, Display name is Skrillx. I am an aspiring Software Eng
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/j12y/predix-volcano-app"><img src="https://repository-images.githubusercontent.com/98841685/16b86d08-cbf3-4f1f-ba8e-c68ae4dc95b9"/></a>
-<p><b><a href="https://github.com/j12y/predix-volcano-app">predix-volcano-app</b></a></p>
-<p>Reference Application for data analysis of Masaya Volcano data using Flask, PredixPy, TimeSeries, Asset, UAA, and PredixUI<br/>
- <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-gallery&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/github--gallery-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aanalytics&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/analytics-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aflask&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/flask-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-ge&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/com--ge-blue?style=pill"/></a> 
-</p>
-</td>
+<p><b><a href="https://github.com/Skrillx13/Sphinx-Simplified">Sphinx-Simplified</b></a></p>
+<p>The best practices for Sphinx, simplified and condensed into an online guide.<br/>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/j12y/san-diego-streetlights"><img src="https://repository-images.githubusercontent.com/181129372/68095885-e5bc-499f-a2f9-18272e8e4cc9"/></a>
