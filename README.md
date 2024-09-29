@@ -67,4 +67,4 @@ I grew up in 🇸🇬 Singapore, and I am still staying there to date.
 
 Took robotics classes from when I was 9 years old to 12 years old, before qutting due to exams. Over my time in those robotics classes, I took coding classes. The ones I was most interested in were 10 week courses each, and I took one for learning HTML, CSS, and JavaScript to make a website, and the other one for learning Python.
 
- I got back into the groove of coding at 14, and that was when I first learnt about Static Sites, which lead me down this rabbit hole of GitHub and coding.
+I got back into the groove of coding at 14, and that was when I first learnt about Static Sites, which lead me down this rabbit hole of GitHub and coding.
