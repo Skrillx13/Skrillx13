@@ -11,9 +11,6 @@
     </h1>
 </div>
 
-
-This README file is generated every 6 hours, and was last generated at Sunday 29 September at 17:51 GMT+8 by Skrillx.
-
 My Username is Skrillx13, Display name is Skrillx. I am an aspiring Software Engineer. Key word is &quot;aspiring&quot;, because I have no idea what I&#39;m doing. Oh, but I do know how to generate Static Sites (Yes I know everyone these days knows how to do that).
 
 ## My Projects
