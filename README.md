@@ -56,7 +56,8 @@ Yes I know they are pretty bad, I will try my best to get my statistics up.
 
 ## My Hobbies
 
-- 🌐 Static Site generation. It's easy, simple, and reactive! I'm currently trying as many Static Site Generators as i can to see which one is the best.
+- 🌐 Static Site generation. I'm currently trying as many Static Site Generators as i can to see which one is the best, but I know how to use MKDocs, Sphinx, Hugo, and Jekyll.
+- Web development. I guess this could fall under the category of "software development", given I like to make software for the web, so that's for you to decide.
 
 ## About Myself
 
@@ -65,3 +66,5 @@ I grew up in 🇸🇬 Singapore, and I am still staying there to date.
 Took robotics classes from when I was 9 years old to 12 years old, before qutting due to exams. Over my time in those robotics classes, I took coding classes. The ones I was most interested in were 10 week courses each, and I took one for learning HTML, CSS, and JavaScript to make a website, and the other one for learning Python.
 
 I got back into the groove of coding at 14, and that was when I first learnt about Static Sites, which lead me down this rabbit hole of GitHub and coding.
+
+Anyways if you want to learn more, go visit my wbsite, https://skrillx13.github.io.
